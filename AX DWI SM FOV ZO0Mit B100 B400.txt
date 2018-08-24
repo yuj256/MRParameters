@@ -1,0 +1,262 @@
+\\CLINICAL\36GU MALE PELVIS\0PROSTATE\020DOTRM MRAD\AX DIFF SM FOV ZOOMit B100 B40
+0 B800 CALC1600 Q9C360020
+TA: 5:18 PM: ISO Voxel size: 0.9×0.9×4.0 mmPAT: Off Rel. SNR: 1.00 : ezse
+Properties
+Prio recon Off
+Load images to viewer On
+Inline movie Off
+Auto store images On
+Load images to stamp segments Off
+Load images to graphic segments Off
+Auto open inline display Off
+Auto close inline display Off
+Start measurement without further
+preparation
+Off
+Wait for user to start Off
+Start measurements Single measurement
+Routine
+Slice group 1
+Slices 20
+Dist. factor 0 %
+Position R18.1 P31.1 F17.3 mm
+Orientation Transversal
+Phase enc. dir. R >> L
+AutoAlign ---
+Phase oversampling 0 %
+FoV read 245 mm
+FoV phase 47.2 %
+Slice thickness 4.0 mm
+TR 4000 ms
+TE 77.0 ms
+Concatenations 1
+Filter Raw filter, Dynamic
+Field Corr., Distortion
+Corr.(2D), Prescan
+Normalize
+Coil elements BO2,3;SP4,5
+Contrast - Common
+TR 4000 ms
+TE 77.0 ms
+MTC Off
+Magn. preparation None
+Fat suppr. SPAIR
+Fat sat. mode Strong
+Contrast - Dynamic
+Averaging mode Long term
+Reconstruction Magnitude
+Measurements 1
+Delay in TR 0 ms
+Resolution - Common
+FoV read 245 mm
+FoV phase 47.2 %
+Slice thickness 4.0 mm
+Base resolution 144
+Phase resolution 90 %
+Phase partial Fourier Off
+Interpolation On
+Resolution - iPAT
+Accel. mode None
+Resolution - Filter Image
+Image Filter Off
+Distortion Corr. On
+Mode 2D
+Prescan Normalize On
+Dynamic Field Corr. On
+Unfiltered images Off
+Resolution - Filter Rawdata
+Raw filter On
+Elliptical filter Off
+Geometry - Common
+Slice group 1
+Slices 20
+Dist. factor 0 %
+Position R18.1 P31.1 F17.3 mm
+Orientation Transversal
+Phase enc. dir. R >> L
+FoV read 245 mm
+FoV phase 47.2 %
+Slice thickness 4.0 mm
+TR 4000 ms
+Multi-slice mode Interleaved
+Series Interleaved
+Concatenations 1
+Geometry - AutoAlign
+Slice group 1
+Position R18.1 P31.1 F17.3 mm
+Orientation Transversal
+Phase enc. dir. R >> L
+AutoAlign ---
+Initial Position R18.1 P31.1 F17.3
+R 18.1 mm
+P 31.1 mm
+F 17.3 mm
+Initial Rotation 90.00 deg
+Initial Orientation Transversal
+Geometry - Saturation
+Sat. region 1
+Thickness 80 mm
+Position R162.5 P0.0 H0.0 mm
+Orientation Sagittal
+Sat. region 2
+Thickness 80 mm
+Position L129.1 P0.0 H0.0 mm
+Orientation Sagittal
+Sat. region 3
+Thickness 80 mm
+Position L155.5 P0.0 H0.0 mm
+Orientation Sagittal
+Sat. region 4
+Thickness 80 mm
+Position R186.9 P0.0 H0.0 mm
+Orientation Sagittal
+Fat sat. mode Strong
+Special sat. None
+SIEMENS MAGNETOM Skyra
+- 52 -
+Geometry - Navigator
+Geometry - Tim Planning Suite
+Set-n-Go Protocol Off
+Table position F
+Table position 17 mm
+Inline Composing Off
+System - Miscellaneous
+Positioning mode ISO
+Table position F
+Table position 17 mm
+MSMA S - C - T
+Sagittal R >> L
+Coronal A >> P
+Transversal F >> H
+Coil Combine Mode Adaptive Combine
+Matrix Optimization Off
+Coil Focus Flat
+AutoAlign ---
+Coil Select Mode Default
+System - Adjustments
+B0 Shim mode Standard
+B1 Shim mode TrueForm
+Adjust with body coil Off
+Confirm freq. adjustment On
+Only after freq. change Off
+Assume Dominant Fat Off
+Assume Silicone Off
+Adjustment Tolerance Auto
+System - Adjust Volume
+Position R18.1 P31.1 F17.3 mm
+Orientation Transversal
+Rotation 90.00 deg
+R >> L 116 mm
+A >> P 245 mm
+F >> H 80 mm
+Reset Off
+Couple to Acquisition volume
+System - pTx Volumes
+B1 Shim mode TrueForm
+Excitation ZOOMit
+pTx Volume 1
+Vol. Property Optimization Vol.
+Position R18.1 P31.1 F17.3 mm
+Orientation Transversal
+Rotation 90 deg
+R >> L 250 mm
+A >> P 245 mm
+F >> H 80 mm
+Vol. Visibility On
+System - Tx/Rx
+Frequency 1H 123.253063 MHz
+Correction factor 1
+Gain High
+Img. Scale Cor. 3.000
+Reset Off
+? Ref. amplitude 1H 0.000 V
+Physio - Signal1
+1st Signal/Mode None
+TR 4000 ms
+Concatenations 1
+Physio - PACE
+Resp. control Off
+Concatenations 1
+Diff - Neuro
+Diffusion mode 4-Scan Trace
+Diff. directions 4
+Diffusion Scheme Monopolar
+Diff. weightings 3
+b-value 1 100 s/mm²
+b-value 2 400 s/mm²
+b-value 3 800 s/mm²
+b-value 1 2
+b-value 2 4
+b-value 3 13
+Diff. weighted images Off
+Trace weighted images On
+ADC maps On
+FA maps Off
+Mosaic Off
+Tensor Off
+Synthetic images Off
+Plain images Off
+Noise level 10
+Diff - Body
+Diffusion mode 4-Scan Trace
+Diff. directions 4
+Diffusion Scheme Monopolar
+Diff. weightings 3
+b-value 1 100 s/mm²
+b-value 2 400 s/mm²
+b-value 3 800 s/mm²
+b-value 1 2
+b-value 2 4
+b-value 3 13
+Diff. weighted images Off
+Trace weighted images On
+ADC maps On
+Exponential ADC Maps Off
+FA maps Off
+Invert Gray Scale Off
+Calculated Image On
+Calculated bValue 1600 s/mm²
+b-Value >= 50 s/mm²
+Noise level 10
+Diff - Composing
+Inline Composing Off
+Distortion Corr. On
+Mode 2D
+Sequence - Part 1
+Introduction On
+Optimization None
+Multi-slice mode Interleaved
+Free echo spacing Off
+Echo spacing 0.77 ms
+Bandwidth 1510 Hz/Px
+SIEMENS MAGNETOM Skyra
+- 53 -
+Sequence - Part 2
+RF Optimization Auto
+EPI factor 61
+RF pulse type Normal
+Gradient mode Fast*
+Excitation ZOOMit
+Sequence - pTX Pulses
+pTX Pulse 1
+TX partial Fourier 6/8
+TX acceleration 1.0
+Sequence - Special
+iShim mode Off
+Adv. Processing On
+Moco Averages On
+Moco BValues Off
+Filter On
+Combine On
+Rescale On
+MIP high b-value Off
+Send Original On
+Calc ADC On
+Least Square Off
+Adv. Noise Est. Off
+Locally Correct ADC Off
+Locally Corrected DWI Off
+Background suppression Off
+DFC tolerance × 1.0
+SIEMENS MAGNETOM Skyra
+-

@@ -1,0 +1,214 @@
+\\CLINICAL\36GU MALE PELVIS\0PROSTATE\020DOTRM MRAD\AX OBL T2 TSE SM FOV Q9C36002
+0
+TA: 3:24 PM: ISO Voxel size: 0.5×0.5×3.0 mmPAT: 2 Rel. SNR: 1.00 : tse
+Properties
+Prio recon Off
+Load images to viewer On
+Inline movie Off
+Auto store images On
+Load images to stamp segments On
+Load images to graphic segments Off
+Auto open inline display Off
+Auto close inline display Off
+Start measurement without further
+preparation
+Off
+Wait for user to start On
+Start measurements Single measurement
+Routine
+Slice group 1
+Slices 23
+Dist. factor 0 %
+Position Isocenter
+Orientation Transversal
+Phase enc. dir. R >> L
+AutoAlign ---
+Phase oversampling 100 %
+FoV read 150 mm
+FoV phase 100.0 %
+Slice thickness 3.0 mm
+TR 3750.0 ms
+TE 134 ms
+Averages 2
+Concatenations 2
+Filter Distortion Corr.(2D),
+Prescan Normalize
+Coil elements BO1-3;EN;SP5,6
+Contrast - Common
+TR 3750.0 ms
+TE 134 ms
+TD 0.0 ms
+MTC Off
+Magn. preparation None
+Flip angle 160 deg
+Fat suppr. None
+Water suppr. None
+Restore magn. Off
+Contrast - Dynamic
+Averages 2
+Averaging mode Long term
+Reconstruction Magnitude
+Measurements 1
+Multiple series Each measurement
+Resolution - Common
+FoV read 150 mm
+FoV phase 100.0 %
+Slice thickness 3.0 mm
+Base resolution 320
+Phase resolution 100 %
+Phase partial Fourier Off
+Trajectory Cartesian
+Resolution - Common
+Interpolation Off
+Resolution - iPAT
+PAT mode GRAPPA
+Accel. factor PE 2
+Ref. lines PE 32
+Reference scan mode Self-calibration
+Resolution - Filter Image
+Image Filter Off
+Distortion Corr. On
+Mode 2D
+Unfiltered images Off
+Prescan Normalize On
+Unfiltered images Off
+Normalize Off
+B1 filter Off
+Resolution - Filter Rawdata
+Raw filter Off
+Elliptical filter Off
+Geometry - Common
+Slice group 1
+Slices 23
+Dist. factor 0 %
+Position Isocenter
+Orientation Transversal
+Phase enc. dir. R >> L
+FoV read 150 mm
+FoV phase 100.0 %
+Slice thickness 3.0 mm
+TR 3750.0 ms
+Multi-slice mode Interleaved
+Series Interleaved
+Concatenations 2
+Geometry - AutoAlign
+Slice group 1
+Position Isocenter
+Orientation Transversal
+Phase enc. dir. R >> L
+AutoAlign ---
+Initial Position Isocenter
+L 0.0 mm
+P 0.0 mm
+H 0.0 mm
+Initial Rotation 0.00 deg
+Initial Orientation Transversal
+Geometry - Saturation
+Fat suppr. None
+Water suppr. None
+Restore magn. Off
+Special sat. None
+Geometry - Navigator
+SIEMENS MAGNETOM Skyra
+- 50 -
+Geometry - Tim Planning Suite
+Set-n-Go Protocol Off
+Table position H
+Table position 0 mm
+Inline Composing Off
+System - Miscellaneous
+Positioning mode ISO
+Table position H
+Table position 0 mm
+MSMA S - C - T
+Sagittal L >> R
+Coronal P >> A
+Transversal H >> F
+Coil Combine Mode Adaptive Combine
+Save uncombined Off
+Matrix Optimization Off
+Coil Focus Flat
+AutoAlign ---
+Coil Select Mode Default
+System - Adjustments
+B0 Shim mode Tune up
+B1 Shim mode TrueForm
+Adjust with body coil Off
+Confirm freq. adjustment Off
+Assume Dominant Fat Off
+Assume Silicone Off
+Adjustment Tolerance Auto
+System - Adjust Volume
+Position Isocenter
+Orientation Transversal
+Rotation 0.00 deg
+A >> P 263 mm
+R >> L 350 mm
+F >> H 350 mm
+Reset Off
+System - pTx Volumes
+B1 Shim mode TrueForm
+System - Tx/Rx
+Frequency 1H 123.253063 MHz
+Correction factor 1
+Gain High
+Img. Scale Cor. 1.000
+Reset Off
+? Ref. amplitude 1H 0.000 V
+Physio - Signal1
+1st Signal/Mode None
+TR 3750.0 ms
+Concatenations 2
+Physio - Cardiac
+Magn. preparation None
+Fat suppr. None
+Dark blood Off
+FoV read 150 mm
+FoV phase 100.0 %
+Phase resolution 100 %
+Trajectory Cartesian
+Physio - PACE
+Resp. control Off
+Concatenations 2
+Inline - Common
+Subtract Off
+Measurements 1
+StdDev Off
+Save original images On
+Inline - MIP
+MIP-Sag Off
+MIP-Cor Off
+MIP-Tra Off
+MIP-Time Off
+Save original images On
+Inline - Composing
+Inline Composing Off
+Distortion Corr. On
+Mode 2D
+Unfiltered images Off
+Sequence - Part 1
+Introduction On
+Dimension 2D
+Compensate T2 decay Off
+Reduce Motion Sens. On
+Contrasts 1
+Flow comp. No
+Multi-slice mode Interleaved
+Free echo spacing Off
+Echo spacing 12.1 ms
+Bandwidth 200 Hz/Px
+Sequence - Part 2
+Define Turbo factor
+Echo trains per slice 13
+Phase correction Automatic
+Acoustic noise reduction None
+RF pulse type Low SAR
+Gradient mode Normal
+Hyperecho Off
+WARP Off
+Red. EC sensitivity Off
+Turbo factor 25
+Sequence - Assistant
+Mode Min flip angle
+Min flip angle 150 deg
+Allowed delay 60 s
